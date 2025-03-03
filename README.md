@@ -19,7 +19,7 @@ The Expense Tracker app is designed to help users manage their personal finances
 
 1. Clone the repository:
     ```sh
-    git clone [repository-url]
+    git clone https://github.com/harshhsaini/flutter-expense-tracker
     ```
 
 2. Navigate to the project directory:
